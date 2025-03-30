@@ -1,4 +1,4 @@
-# TaskManagementTool by Neha Raj, Bharti Prakash and Silvi Monga
+# Collaborative Task Management System
 
 ## Tech Stack used:
 
